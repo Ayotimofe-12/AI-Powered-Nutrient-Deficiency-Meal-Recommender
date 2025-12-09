@@ -12,6 +12,7 @@ Phase 2 (this repo) now introduces an AI-powered food recommendation engine that
 Together, they form an end-to-end health-focused ML system that connects prediction → recommendation → action.
 
 🧠 Core Features
+
 🔍 1. Nutrient Deficiency Prediction
 
 * ML model identifies potential deficiencies based on food intake
@@ -66,6 +67,7 @@ Deployment
 * Streamlit Cloud
 
  🗂️ Project Structure
+ 
 ├── app.py                   
 ├── nutrient7_model_compressed.joblib                
 ├── foods.csv            
@@ -109,6 +111,7 @@ By combining data science, ML, and real-world nutrition knowledge, this system h
 “What am I lacking?” → “What should I eat next?”
 
 It demonstrates:
+
 * End-to-end ML product development
 
 * Clean UI implementation
