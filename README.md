@@ -74,13 +74,19 @@ Deployment
 
 
 📊 How It Works
+
 1️⃣ User provides intake / deficiency inputs
+
 2️⃣ ML model predicts likely nutrient gaps
+
 3️⃣ System matches user deficits with foods rich in missing nutrients
+
 4️⃣ Recommendations are refined using selected filters
+
 5️⃣ Final suggestions displayed with nutrient highlights
 
 🚀 Live Demo
+
 I will update this section with the live link.
 
 
@@ -96,7 +102,7 @@ I will update this section with the live link.
 
 * Nutrition tech prototype
 
-  🎯 Why This Project Matters
+🎯 Why This Project Matters
 
 Nutrition is deeply personal and often confusing.
 By combining data science, ML, and real-world nutrition knowledge, this system helps users move from:
