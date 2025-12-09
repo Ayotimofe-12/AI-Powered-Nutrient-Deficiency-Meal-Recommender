@@ -89,7 +89,7 @@ Deployment
 
 🚀 Live Demo
 
-https://ai-powered-nutrient-deficiency-meal-recommender-b3mgduehmwwfvz.streamlit.app
+https://ai-powered-nutrient-deficiency-meal-recommender-pbbjmx3kr64c3h.streamlit.app
 
 
 📚 Use Cases
